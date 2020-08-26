@@ -9,5 +9,5 @@ This repo is a simple where I intend to learn and implement Dockerized versions 
 - [ ] Pytorch 
 - [ ] Pytorch_Lightning (Thank you William Falcon) 
 - [ ] Pre-Trained TensorFlow 2 
-- [ ] Flask Webserver 
+- [x] Flask Webserver 
 - [ ] Webserver as front end for ML inference 
