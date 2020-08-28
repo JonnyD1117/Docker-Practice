@@ -5,6 +5,7 @@ This repo is a simple where I intend to learn and implement Dockerized versions 
 ## Task List for Docker 'Mini" Projects
 
 - [x] Hello World (Python) 
+- [ ] Implement Container persistant data by using data Volume
 - [ ] ROS 
 - [ ] Pytorch 
 - [ ] Pytorch_Lightning (Thank you William Falcon) 
