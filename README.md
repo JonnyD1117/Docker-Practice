@@ -12,3 +12,8 @@ This repo is a simple where I intend to learn and implement Dockerized versions 
 - [ ] Pre-Trained TensorFlow 2 
 - [x] Flask Webserver 
 - [ ] Webserver as front end for ML inference 
+
+
+## Docker Installation & Cheat Sheet Guide:
+
+
